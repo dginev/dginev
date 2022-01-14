@@ -1,4 +1,6 @@
 
+👉 [ar5iv.org — preview arXiv as HTML5 (2022)](https://ar5iv.org)
+
 👉 [Latest arXiv HTML dataset (2020)](https://sigmathling.kwarc.info/resources/arxmliv-dataset-2020/)
 
 👉 [Latest arXiv analysis work (2019)](https://www.aclweb.org/anthology/2020.lrec-1.153/)
